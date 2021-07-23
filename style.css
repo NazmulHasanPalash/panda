@@ -1,3 +1,5 @@
+
+}
 /*------ slide -------*/
 .bg-color{
     background-color: #fbeae8;
@@ -9,10 +11,7 @@
     border-radius: 8px;
     padding: 9px 25px;
 }
-.button-lg-type:hover{ 
-  background-image: linear-gradient(blue,cyan);
-  color: #fff;
-}
+
 .text-color{
     color: #FF136F;
 }
