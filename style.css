@@ -1,0 +1,44 @@
+/*------ slide -------*/
+.bg-color{
+    background-color: #fbeae8;
+}
+.button-lg-type{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.button-lg-type:hover{
+ background-image: linear-gradient(blue, cyan);
+}
+.text-color{
+    color: #FF136F;
+}
+/* second-banner */
+.watch-size{
+    background-color: orange
+}
+.watch-size img{
+    width: 100px;
+}
+.bag-size{
+    background-color: orchid;
+}
+.bag-size img{
+    width: 100px;
+}
+.shoes-size{
+    background-color: blue;
+}
+.shoes-size img{
+    width: 100px;
+}
+/* -------shoes---- */
+.btn-size{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
